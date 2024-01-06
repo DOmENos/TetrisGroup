@@ -6,7 +6,10 @@ Function in Tetris game project
 - flip block
 
 This project develop by
+
 Setthanan Thitathanapat ID 6410742537
+
+
 Pattrakorn Limsuwat ID 6410742669
 
 Thammasat university , Thailand
